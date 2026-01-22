@@ -18,4 +18,4 @@ Dependencies:
   - doParallel
   - Rcpp
 References: "https://doi.org/10.1101/287839"
-Version: 0.0.8
+Version: 0.0.9
